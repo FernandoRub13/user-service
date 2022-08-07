@@ -1,0 +1,12 @@
+{
+    "name": "fernando/user-service",
+    "require": {
+        "laravel/framework": "9.19"
+    },
+    "authors": [
+        {
+            "name": "Fernando Rubio",
+            "email": "pablo.rubio.bailon@gmail.com"
+        }
+    ]
+}
